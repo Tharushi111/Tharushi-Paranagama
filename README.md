@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tharushi Paranagama</h1>
-<h3 align="center">Undergraduate at SLIIT</h3>
+<h3 align="center">Undergraduate at Sri Lanka Institute of Information Technology (SLIIT)</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tharushi111&label=Profile%20views&color=0e75b6&style=flat" alt="tharushi111" /> </p>
 
