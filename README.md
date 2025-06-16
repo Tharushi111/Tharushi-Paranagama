@@ -63,5 +63,8 @@
 ```txt
 I love solving bugs more than writing new features 😄
 
+---
+
 _Thank you for visiting my profile! Feel free to connect! 😊_
+
 
