@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tharushi111&label=Profile%20views&color=0e75b6&style=flat" alt="tharushi111" /> </p>
 
-- 🌱 I’m currently learning **php**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **tharushiparanagama1@gmail.com**
 
