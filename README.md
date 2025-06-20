@@ -49,19 +49,9 @@
 
 ---
 
-## 🔥 Streak Tracker:
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tharushi111&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-</p>
-
-
-
 ---
 
-## ⚡ Fun Fact:
-
 ```txt
-I love solving bugs more than writing new features 😄
 
 ---
 
