@@ -7,8 +7,8 @@
 
 ---
 
-🌱 I’m currently learning **MERN, JAVA **  
-💻 I enjoy building **Web Application** and exploring **Linux systems**  
+🌱 I’m currently learning **MERN, JAVA**  
+💻 I enjoy building **Full-Satck Web Application** and exploring **Linux systems**  
 📬 Reach me at: **tharushiparanagama1@gmail.com**  
 🌐 I’m also open to collaborations and internships!  
 
