@@ -2,8 +2,14 @@
 <h3 align="center">🎓 Undergraduate at Sri Lanka Institute of Information Technology (SLIIT)</h3>  
 
 <p align="center">
+  <!-- Typing animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Tharushi+Paranagama;Welcome+to+my+GitHub+profile!" alt="Typing Animation" />
+</p>
+
+<p align="center">
   <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" alt="Girl Coding Animation" width="400" />
 </p>
+
 
 <p align="center">  
   <img src="https://komarev.com/ghpvc/?username=tharushi111&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />  
