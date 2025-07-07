@@ -66,16 +66,6 @@
 
 ---
 
-## 🏆 Achievements
-
-- 🥇 **YOLO Challenge 2024** – Recognized for innovation in user management solutions  
-- 🏅 **QuickDraw Hackathon** – Awarded Best UI/UX Design  
-- 🎓 **Google Summer of Code 2023** – Mentee focused on MERN stack projects  
-- 📢 Presented **UserSphere** at Tech Symposium 2024 to 200+ attendees  
-- 🏆 Winner of **University Innovation Contest 2024** for best full-stack project  
-
----
-
 ## 💬 Favorite Quote
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
@@ -88,15 +78,12 @@
 
 ---
 
-<details>
-<summary>⚡ More About Me</summary>
+⚡ More About Me
 
 - 📚 Currently learning advanced MERN topics and Java concurrency  
 - 🐧 Linux enthusiast who loves tinkering with shell scripts  
-- 🎮 Gaming and anime lover during downtime  
+- 🎮 Gaming lover during downtime  
 - 🤝 Always open for mentorship, collaborations, and internships
-
-</details>
 
 ---
 
