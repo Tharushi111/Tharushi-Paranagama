@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tharushi Paranagama</h1>  
 <h3 align="center">🎓 Undergraduate at Sri Lanka Institute of Information Technology (SLIIT)</h3>  
 
-p align="center">
+<p align="center">
   <!-- Coding animation GIF -->
   <img src="https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif" alt="Coding Animation" width="400" />
 </p>
