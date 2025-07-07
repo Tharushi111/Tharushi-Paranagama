@@ -16,7 +16,7 @@
 ## 🚀 About Me
 
 👩‍💻 Passionate Full-Stack Developer who loves building scalable and performant web apps.  
-🌱 Currently mastering **MERN stack** and exploring advanced **Java** and **Linux** systems.  
+🌱 Currently learning **MERN stack** and exploring advanced **Java** and **Linux** systems.  
 ⚡ Fun fact: I enjoy turning coffee into code ☕💻.
 
 ---
@@ -70,7 +70,7 @@
 
 ⚡ More About Me
 
-- 📚 Currently learning advanced MERN topics and Java concurrency  
+- 📚 Currently learning MERN stack and Java concurrency  
 - 🎮 Gaming lover during downtime  
 - 🤝 Always open for collaborations, and internships
 
