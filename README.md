@@ -2,7 +2,7 @@
 <h3 align="center">🎓 Undergraduate at Sri Lanka Institute of Information Technology (SLIIT)</h3>  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Programmer Animation" width="400" />
+  <img src="https://cdn.dribbble.com/users/1615583/screenshots/6547952/media/4ffb1237f0b469d2d2a7e48f9b7cc378.gif" alt="Coding Animation" width="400" />
 </p>
 
 ---
