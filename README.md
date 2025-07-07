@@ -2,6 +2,7 @@
 <h3 align="center">🎓 Undergraduate at Sri Lanka Institute of Information Technology (SLIIT)</h3>  
 
 <p align="center">
+  <!-- Happy girl coding animation -->
   <img src="https://media.giphy.com/media/5xtDarqCp0v6wQUC1va/giphy.gif" alt="Happy Girl Coding" width="400" />
 </p>
 
