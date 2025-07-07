@@ -2,12 +2,7 @@
 <h3 align="center">🎓 Undergraduate at Sri Lanka Institute of Information Technology (SLIIT)</h3>  
 
 <p align="center">
-  <!-- Coding animation GIF -->
-  <img src="https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif" alt="Coding Animation" width="400" />
-</p>
-
-<p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=tharushi111&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />  
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Programmer Animation" width="400" />
 </p>
 
 ---
