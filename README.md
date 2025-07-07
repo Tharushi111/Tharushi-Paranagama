@@ -2,10 +2,12 @@
 <h3 align="center">🎓 Undergraduate at Sri Lanka Institute of Information Technology (SLIIT)</h3>  
 
 <p align="center">
-  <!-- Happy girl coding animation -->
-  <img src="https://media.giphy.com/media/5xtDarqCp0v6wQUC1va/giphy.gif" alt="Happy Girl Coding" width="400" />
+  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" alt="Girl Coding Animation" width="400" />
 </p>
 
+<p align="center">  
+  <img src="https://komarev.com/ghpvc/?username=tharushi111&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />  
+</p>
 ---
 
 ## 🚀 About Me
