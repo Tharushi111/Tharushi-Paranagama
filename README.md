@@ -1,19 +1,13 @@
-<h1 align="center" style="font-weight: 900; font-size: 3.5rem; background: linear-gradient(90deg, #ff7e5f, #feb47b); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-  Hi 👋, I'm Tharushi Paranagama
-</h1>
-
-<h3 align="center" style="color: #ffa726;">
-  🎓 Undergraduate at Sri Lanka Institute of Information Technology (SLIIT)
-</h3>
+<h1 align="center">Hi 👋, I'm Tharushi Paranagama</h1>  
+<h3 align="center">🎓 Undergraduate at Sri Lanka Institute of Information Technology (SLIIT)</h3>  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tharushi111&label=Profile%20views&color=ff6f61&style=flat-square" alt="Profile Views" />
+  <!-- Coding animation GIF -->
+  <img src="https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif" alt="Coding Animation" width="400" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=FF6F61&background=0D1117&center=true&width=600&lines=Full-Stack+Developer;MERN+Stack+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+<p align="center">  
+  <img src="https://komarev.com/ghpvc/?username=tharushi111&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />  
 </p>
 
 ---
@@ -42,15 +36,17 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/-DaisyUI-2B3649?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" />
 </p>
 
 ---
@@ -61,7 +57,6 @@
   <a href="mailto:tharushiparanagama1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/tharushi-paranagama" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/tharushi111" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://twitter.com/your_twitter_handle" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 </p>
 
 ---
@@ -72,18 +67,11 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Coding Animation" width="300" />
-</p>
-
----
-
 ⚡ More About Me
 
 - 📚 Currently learning advanced MERN topics and Java concurrency  
-- 🐧 Linux enthusiast who loves tinkering with shell scripts  
 - 🎮 Gaming lover during downtime  
-- 🤝 Always open for mentorship, collaborations, and internships
+- 🤝 Always open for collaborations, and internships
 
 ---
 
