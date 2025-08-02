@@ -72,7 +72,7 @@
 
 ⚡ More About Me
 
-- 📚 Currently learning MERN stack and Java concurrency  
+- 📚 Currently learning MERN stack and kotlin concurrency  
 - 🎮 Gaming lover during downtime  
 - 🤝 Always open for collaborations, and internships
 
