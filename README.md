@@ -8,7 +8,6 @@
   <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" alt="Girl Coding Animation" width="400" />
 </p>
 
-
 <p align="center">  
   <img src="https://komarev.com/ghpvc/?username=tharushi111&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />  
 </p>
@@ -30,6 +29,12 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharushi111&theme=radical&hide_border=true" alt="GitHub Streak" width="820" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tharushi111&theme=radical&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -72,9 +77,6 @@
 
 ⚡ More About Me
 
-- 📚 Currently learning MERN stack and kotlin concurrency  
+- 📚 Currently learning MERN stack and Kotlin concurrency  
 - 🎮 Gaming lover during downtime  
 - 🤝 Always open for collaborations, and internships
-
----
-
