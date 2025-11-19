@@ -14,9 +14,14 @@
 
 ## 🚀 About Me
 
-👩‍💻 Passionate Full-Stack Developer who loves building scalable and performant web apps.  
-🌱 Currently learning **MERN stack** and **Kotlin**.  
-⚡ Fun fact: I enjoy turning coffee into code ☕💻.
+I'm 3rd Year **Information Technology undergraduate** passionate about building modern, user-friendly software.  
+I enjoy working on **web applications, mobile apps, and UI/UX design**, turning ideas into real working solutions.
+
+💡 I believe in  
+- Writing clean and structured code  
+- Designing meaningful and intuitive user experiences  
+- Continuous learning and self-improvement  
+- Working together to build great things
 
 ---
 
