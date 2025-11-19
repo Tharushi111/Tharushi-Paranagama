@@ -4,11 +4,6 @@
  
 <h3 align="center">🎓 Undergraduate at Sri Lanka Institute of Information Technology (SLIIT)</h3>  
 
-<!-- Animated Hacker Header -->
-<p align="center">
-  <img src="https://i.imgur.com/yb5q721.gif" width="700" />
-</p>
-
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWkzaDZjYWFxNDV5Yzg5ZjJwcm5nNGZ5ZG45M3FqdDJmd2FmcTF1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okFG5aJWqRGMYXoKTD/giphy.gif" />
 </p>
