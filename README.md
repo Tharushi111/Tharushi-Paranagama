@@ -82,6 +82,6 @@ I enjoy working on **web applications, mobile apps, and UI/UX design**, turning 
 
 ⚡ More About Me
 
-- 📚 Currently learning MERN stack and Kotlin concurrency  
+- 📚 Currently learning Springboot 
 - 🎮 Gaming lover during downtime  
 - 🤝 Always open for collaborations, and internships
