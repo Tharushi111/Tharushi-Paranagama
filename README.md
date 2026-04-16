@@ -133,8 +133,6 @@ Always exploring new technologies and continuously improving development practic
 
 ---
 
-<hr>
-
 <h3 align="center">Quote</h3>
 
 <p align="center">
