@@ -70,15 +70,6 @@ Improving problem solving and algorithmic thinking
 
 ---
 
-# Development Tools
-
-<p align="center">
-<img src="https://img.shields.io/badge/Figma-Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-Cloud-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p>
-
 <p align="center">
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="500"/>
 </p>
@@ -106,30 +97,6 @@ Improving problem solving and algorithmic thinking
 
 ---
 
-# GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tharushi111&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-# Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/tharushi111/tharushi111/output/snake.svg"/>
-</p>
-
----
-
-# 3D Contribution Graph
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/master/profile-3d-contrib/profile-night-rainbow.svg"/>
-</p>
-
----
-
 # Visitor Map
 
 <p align="center">
@@ -143,27 +110,6 @@ Improving problem solving and algorithmic thinking
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tharushi111&theme=tokyonight"/>
 </p>
-
----
-
-# Featured Projects
-
-### Smart Campus Management System
-
-Full stack platform for managing university resources, bookings, and support tickets.
-
-Technology stack
-
-Spring Boot  
-React  
-MySQL  
-REST APIs
-
----
-
-### Study Group Collaboration Platform
-
-Collaborative system for students to create study groups, schedule sessions, and manage learning activities.
 
 ---
 
