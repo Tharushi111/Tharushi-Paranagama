@@ -29,10 +29,8 @@ Always exploring new technologies and continuously improving development practic
 
 # Current Focus
 
-Building full stack applications using MERN stack and Spring Boot  
-Exploring Android development using Kotlin  
-Learning cloud deployment and DevOps fundamentals  
-Improving problem solving and algorithmic thinking
+- Building full stack applications using MERN stack and Spring Boot  
+- Improving problem solving and algorithmic thinking
 
 ---
 
@@ -137,11 +135,11 @@ Improving problem solving and algorithmic thinking
 
 # Quote
 
-Code should be simple, readable, and built with purpose.
-
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+> "Code is like humor. When you have to explain it, it's bad."  
+> — Cory House
 </p>
+
 
 <p align="center">
 Thanks for visiting this profile. Collaboration and new ideas are always welcome.
