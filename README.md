@@ -146,6 +146,3 @@ Always exploring new technologies and continuously improving development practic
   Thanks for visiting this profile.<br>
   Collaboration and new ideas are always welcome.
 </p>
-
-
-not want emojis...
