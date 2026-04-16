@@ -1,87 +1,69 @@
-<!-- PROFILE HEADER -->
-<h1 align="center">Hi 👋 I'm Tharushi Paranagama</h1>
-<h3 align="center">💻 3rd Year IT Undergraduate | Full Stack Developer | UI/UX Enthusiast</h3>
+<h1 align="center">Tharushi Paranagama</h1>
+<h3 align="center">Information Technology Undergraduate | Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;React+%7C+Spring+Boot+%7C+Node.js;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Spring+Boot+%7C+Node.js;Building+Modern+Web+Applications;Continuous+Learning+and+Innovation"/>
 </p>
 
 ---
 
-# 👩‍💻 About Me
+## Profile
 
-🎓 3rd Year **Information Technology Undergraduate** at **Sri Lanka Institute of Information Technology (SLIIT)**  
+Third year Information Technology undergraduate at **Sri Lanka Institute of Information Technology (SLIIT)** with a strong interest in software development and system design.  
+Focused on building scalable web applications, designing intuitive user interfaces, and continuously improving development practices.
 
-💡 Passionate about building **modern software solutions** and solving real-world problems with technology.
+Current interests include:
 
-🔭 Currently working on  
-• Smart Campus Systems  
-• Full Stack Web Applications  
-
-🌱 Currently learning  
-• **Spring Boot**  
-• **Advanced React Development**  
-• **Cloud & DevOps Basics**
-
-💬 Ask me about  
-• Web Development  
-• UI/UX Design  
-• Full Stack Projects
-
-⚡ Fun Fact  
-> I love turning complex problems into simple, beautiful solutions.
+- Full stack web development
+- Modern frontend frameworks
+- Backend API development
+- Database design and optimization
+- UI and UX focused applications
 
 ---
 
-# 🛠️ Tech Stack
+## Technologies
 
-### 💻 Programming Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp,java,js,kotlin" />
 </p>
 
-### 🌐 Web Development
+### Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,spring" />
 </p>
 
-### 🗄️ Databases
+### Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### ⚙️ Tools & Platforms
+### Development Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,androidstudio,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,androidstudio" />
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+## GitHub Statistics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tharushi111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharushi111&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=tharushi111&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharushi111&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## Contribution Activity
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharushi111&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-# 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tharushi111&theme=tokyo-night"/>
@@ -89,70 +71,52 @@
 
 ---
 
-# 🏆 GitHub Achievements
+## Selected Projects
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=tharushi111&theme=tokyonight&no-bg=true&margin-w=15"/>
-</p>
+### Smart Campus Management System
 
----
+A full stack platform designed to manage university resources, bookings, and support tickets.
 
-# 🚀 Featured Projects
+Technology stack:
 
-### 📚 Smart Campus Management System
-Full stack system for managing university resources, bookings, and tickets.
-
-**Tech Stack**
-- Spring Boot
-- React
-- MySQL
-- REST APIs
+- Spring Boot backend
+- React frontend
+- REST API architecture
+- MySQL database
 
 ---
 
-### 🤝 Smart Study Group Management Platform
+### Study Group Collaboration Platform
 
-A collaboration platform for students to create and manage study groups.
+A collaborative environment where students can create study groups, manage sessions, and coordinate academic activities.
 
-**Features**
-- Group creation
+Key features:
+
+- Study group management
 - Session scheduling
-- Real-time collaboration
+- Collaboration tools
+- Role-based user system
 
 ---
 
-# 📱 Connect With Me
+## Contact
 
-<p align="center">
-
+<p>
 <a href="mailto:tharushiparanagama1@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/email-contact-blue?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/tharushi-paranagama">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/linkedin-profile-blue?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/tharushi111">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/github-profile-black?style=for-the-badge"/>
 </a>
-
 </p>
 
 ---
 
-# 💬 Favorite Quote
+## Quote
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=tharushi111&label=Profile%20views&color=0e75b6&style=flat"/>
-</p>
-
----
-
-⭐ From [Tharushi Paranagama](https://github.com/tharushi111)
+> Code should be simple, readable, and built with purpose.
