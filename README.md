@@ -133,18 +133,20 @@ Always exploring new technologies and continuously improving development practic
 
 ---
 
+<hr>
+
 <h3 align="center">Quote</h3>
 
 <p align="center">
-<em>"Code is like humor. When you have to explain it, it's bad."</em><br/>
-<strong>— Cory House</strong>
-</p> 
+  <em>"Code is like humor. When you have to explain it, it's bad."</em><br/>
+  <strong>— Cory House</strong>
+</p>
+
+<br>
 
 <p align="center">
-Thanks for visiting this profile. Collaboration and new ideas are always welcome.
+  Thanks for visiting this profile.<br>
+  Collaboration and new ideas are always welcome.
 </p>
 
 
-<p align="center">
-Thanks for visiting this profile. Collaboration and new ideas are always welcome.
-</p>
