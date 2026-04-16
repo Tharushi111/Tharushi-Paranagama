@@ -1,87 +1,106 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Tharushi+Paranagama;Welcome+to+my+GitHub+profile!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Tharushi+Paranagama;Welcome+to+my+GitHub+space!;Full-Stack+Developer+in+progress;UI%2FUX+Enthusiast;Always+learning+new+things" alt="Typing Animation" />
 </p>
- 
-<h3 align="center">🎓 3rd Year Undergraduate at Sri Lanka Institute of Information Technology (SLIIT)</h3>  
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWkzaDZjYWFxNDV5Yzg5ZjJwcm5nNGZ5ZG45M3FqdDJmd2FmcTF1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okFG5aJWqRGMYXoKTD/giphy.gif" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding animation" />
 </p>
 
-<p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=tharushi111&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tharushi111&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/tharushi111?label=Followers&style=social" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/tharushi111?label=Stars&style=social" alt="GitHub stars" />
 </p>
-
-## 🚀 About Me
-
-I'm 3rd Year **Information Technology undergraduate** passionate about building modern, user-friendly software.  
-I enjoy working on **web applications, mobile apps, and UI/UX design**, turning ideas into real working solutions.
-
-💡 I believe in  
-- Writing clean and structured code  
-- Designing meaningful and intuitive user experiences  
-- Continuous learning and self-improvement  
-- Working together to build great things
 
 ---
 
-## 🔥 GitHub Stats
+## 🧑‍💻 About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tharushi111&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharushi111&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="400" />
-</p>
+🎓 3rd year **Information Technology** undergraduate at **SLIIT**, Sri Lanka.  
+💻 Passionate about crafting **modern web & mobile apps** with great user experience.  
+🎨 Love designing clean UI/UX and bringing ideas to life with code.  
+🌱 Always learning – currently diving deeper into **Spring Boot** and **cloud computing**.  
+🤝 Open to **collaborations**, **freelance projects**, and **internship opportunities**.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharushi111&theme=radical&hide_border=true" alt="GitHub Streak" width="820" />
-</p>
+---
 
-## 🏆 GitHub Trophies
+## 🔭 Current Focus
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tharushi111&theme=radical&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
-</p>
+- 🚀 Building full-stack applications using **MERN** stack & **Spring Boot**
+- 📱 Exploring **Android development** with Kotlin
+- ☁️ Learning **AWS** fundamentals and deployment
+- 🎯 Improving **data structures & algorithms** for problem solving
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="40" height="40" alt="Android Studio" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,js,react,nodejs,spring,mongodb,html,css,git,linux,androidstudio" />
 </p>
+
+<details>
+  <summary><b>📌 More tools & technologies</b></summary>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  </p>
+</details>
 
 ---
 
-## 📱 Connect with Me
+## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="mailto:tharushiparanagama1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/tharushi-paranagama" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/tharushi111" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=tharushi111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharushi111&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharushi111&theme=tokyonight&hide_border=true" width="70%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tharushi111&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=70a5fd&line=00b4d8&point=ffffff" width="90%" />
 </p>
 
 ---
 
-## 💬 Favorite Quote
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tharushi111&theme=onedark&margin-w=10&margin-h=10&no-bg=true&row=1" />
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="mailto:tharushiparanagama1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tharushi-paranagama" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/tharushi111" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+## ✨ Fun Corner
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
+🎧 Currently on repeat: Lo-Fi beats & synthwave  
+☕ Fun fact: I can solve a Rubik’s cube in under 2 minutes  
+🧠 Quote I live by: *“Progress, not perfection.”*
+
 ---
 
-⚡ More About Me
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
-- 📚 Currently learning Springboot 
-- 🎮 Gaming lover during downtime  
-- 🤝 Always open for collaborations, and internships
+<p align="center">
+  <b>Thanks for stopping by! 💙 <br/> Let's build something awesome together.</b>
+</p>
