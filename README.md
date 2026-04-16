@@ -1,106 +1,158 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Tharushi+Paranagama;Welcome+to+my+GitHub+space!;Full-Stack+Developer+in+progress;UI%2FUX+Enthusiast;Always+learning+new+things" alt="Typing Animation" />
-</p>
+<!-- PROFILE HEADER -->
+<h1 align="center">Hi 👋 I'm Tharushi Paranagama</h1>
+<h3 align="center">💻 3rd Year IT Undergraduate | Full Stack Developer | UI/UX Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding animation" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tharushi111&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/tharushi111?label=Followers&style=social" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/tharushi111?label=Stars&style=social" alt="GitHub stars" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;React+%7C+Spring+Boot+%7C+Node.js;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+# 👩‍💻 About Me
 
-🎓 3rd year **Information Technology** undergraduate at **SLIIT**, Sri Lanka.  
-💻 Passionate about crafting **modern web & mobile apps** with great user experience.  
-🎨 Love designing clean UI/UX and bringing ideas to life with code.  
-🌱 Always learning – currently diving deeper into **Spring Boot** and **cloud computing**.  
-🤝 Open to **collaborations**, **freelance projects**, and **internship opportunities**.
+🎓 3rd Year **Information Technology Undergraduate** at **Sri Lanka Institute of Information Technology (SLIIT)**  
 
----
+💡 Passionate about building **modern software solutions** and solving real-world problems with technology.
 
-## 🔭 Current Focus
+🔭 Currently working on  
+• Smart Campus Systems  
+• Full Stack Web Applications  
 
-- 🚀 Building full-stack applications using **MERN** stack & **Spring Boot**
-- 📱 Exploring **Android development** with Kotlin
-- ☁️ Learning **AWS** fundamentals and deployment
-- 🎯 Improving **data structures & algorithms** for problem solving
+🌱 Currently learning  
+• **Spring Boot**  
+• **Advanced React Development**  
+• **Cloud & DevOps Basics**
 
----
+💬 Ask me about  
+• Web Development  
+• UI/UX Design  
+• Full Stack Projects
 
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,js,react,nodejs,spring,mongodb,html,css,git,linux,androidstudio" />
-</p>
-
-<details>
-  <summary><b>📌 More tools & technologies</b></summary>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  </p>
-</details>
+⚡ Fun Fact  
+> I love turning complex problems into simple, beautiful solutions.
 
 ---
 
-## 📊 GitHub Analytics
+# 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tharushi111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharushi111&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,kotlin" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharushi111&theme=tokyonight&hide_border=true" width="70%" />
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tharushi111&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=70a5fd&line=00b4d8&point=ffffff" width="90%" />
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
----
+### ⚙️ Tools & Platforms
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tharushi111&theme=onedark&margin-w=10&margin-h=10&no-bg=true&row=1" />
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,androidstudio,postman" />
 </p>
 
 ---
 
-## 🤝 Connect with Me
+# 📊 GitHub Analytics
 
 <p align="center">
-  <a href="mailto:tharushiparanagama1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/tharushi-paranagama" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/tharushi111" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=tharushi111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharushi111&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
 </p>
 
 ---
 
-## ✨ Fun Corner
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tharushi111&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tharushi111&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=tharushi111&theme=tokyonight&no-bg=true&margin-w=15"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 📚 Smart Campus Management System
+Full stack system for managing university resources, bookings, and tickets.
+
+**Tech Stack**
+- Spring Boot
+- React
+- MySQL
+- REST APIs
+
+---
+
+### 🤝 Smart Study Group Management Platform
+
+A collaboration platform for students to create and manage study groups.
+
+**Features**
+- Group creation
+- Session scheduling
+- Real-time collaboration
+
+---
+
+# 📱 Connect With Me
+
+<p align="center">
+
+<a href="mailto:tharushiparanagama1@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/tharushi-paranagama">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/tharushi111">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# 💬 Favorite Quote
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
-🎧 Currently on repeat: Lo-Fi beats & synthwave  
-☕ Fun fact: I can solve a Rubik’s cube in under 2 minutes  
-🧠 Quote I live by: *“Progress, not perfection.”*
+---
+
+# 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=tharushi111&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <b>Thanks for stopping by! 💙 <br/> Let's build something awesome together.</b>
-</p>
+⭐ From [Tharushi Paranagama](https://github.com/tharushi111)
