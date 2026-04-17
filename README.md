@@ -96,14 +96,6 @@ Always exploring new technologies and continuously improving development practic
 
 ---
 
-# Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tharushi111/tharushi111/output/snake.svg" alt="snake animation"/>
-</p>
-
----
-
 # Visitor Map
 
 <p align="center">
