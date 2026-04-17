@@ -89,8 +89,17 @@ Always exploring new technologies and continuously improving development practic
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharushi111&theme=tokyonight&hide_border=true" width="70%"/>
 </p>
 
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tharushi111&theme=tokyo-night&hide_border=true" width="90%"/>
+</p>
+
+---
+
+# Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tharushi111/tharushi111/output/snake.svg" alt="snake animation"/>
 </p>
 
 ---
