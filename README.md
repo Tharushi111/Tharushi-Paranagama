@@ -74,16 +74,10 @@ Always exploring new technologies and continuously improving development practic
 
 ---
 
----
-
 ## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tharushi111&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharushi111&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
-
-<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharushi111&theme=tokyonight&hide_border=true" width="70%" />
 
