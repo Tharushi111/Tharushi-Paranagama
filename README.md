@@ -44,31 +44,31 @@ Always exploring new technologies and continuously improving development practic
 
 ### Frontend Development
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=html,css,react"/>
 </p>
 
 ### Backend Development
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=nodejs,spring,express"/>
 </p>
 
 ### Databases
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
 </p>
 
 ### Tools and Platforms
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,androidstudio"/>
 </p>
 
 ---
 
-<p align="center">
+<p>
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="500"/>
 </p>
 
