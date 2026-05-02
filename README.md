@@ -68,7 +68,7 @@ Always exploring new technologies and continuously improving development practic
 
 ---
 
-<p>
+<p align="center">
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="500"/>
 </p>
 
