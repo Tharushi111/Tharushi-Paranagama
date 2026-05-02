@@ -38,7 +38,7 @@ Always exploring new technologies and continuously improving development practic
 
 ### Programming Languages
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=java,kotlin,js,c,cpp"/>
 </p>
 
